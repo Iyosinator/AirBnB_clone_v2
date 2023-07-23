@@ -91,4 +91,3 @@ class FileStorage:
         call reload
         """
         self.reload()
-
